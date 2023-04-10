@@ -1,0 +1,111 @@
+ [
+      {
+        "id": 1,
+        "company_logo": "https://example.com/company_logo_001.png",
+        "job_title": "Software Engineer",
+        "company_name": "Example Inc.",
+        "remote_or_onsite": "Remote",
+        "location": "Anywhere",
+        "fulltime_or_parttime": "Fulltime",
+        "salary": "$100,000 - $120,000 per year",
+        "job_description": "We are looking for a talented software engineer to join our team and help us build great software products. The ideal candidate will have experience with Java, Python, and cloud technologies.",
+        "job_responsibility": "- Design, develop, and maintain software applications\n- Write clean, efficient, and well-documented code\n- Collaborate with cross-functional teams to define, design, and ship new features\n- Participate in code reviews and testing\n- Continuously improve software development processes",
+        "educational_requirements": "Bachelor's degree in Computer Science or related field",
+        "experiences": "3+ years of experience in software development",
+        "contact_information": {
+          "phone": "123-456-7890",
+          "email": "jobs@example.com"
+        }
+      },
+      {
+        "id": 2,
+        "company_logo": "https://example.com/logo.png",
+        "job_title": "Product Manager",
+        "company_name": "Beta Inc.",
+        "remote_or_onsite": "Onsite",
+        "location": "New York, NY",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$120,000 - $140,000",
+        "job_description": "We're seeking a highly motivated product manager to help us take our platform to the next level.",
+        "job_responsibility": "Responsibilities include conducting market research, working with development teams to design new features, and collaborating with stakeholders across the organization.",
+        "educational_requirements": "Bachelor's degree in Business, Marketing, or a related field",
+        "experiences": "7+ years of experience in product management",
+        "contact_information": {
+          "phone": "+1 (555) 987-6543",
+          "email": "jobs@beta.com"
+        }
+      },
+      {
+        "id": 3,
+        "company_logo": "https://example.com/logo.png",
+        "job_title": "Software Engineer",
+        "company_name": "Acme Corporation",
+        "remote_or_onsite": "Remote",
+        "location": "Anywhere",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$100,000 - $120,000",
+        "job_description": "We're looking for a talented software engineer to join our team and help us build the next generation of our platform.",
+        "job_responsibility": "Responsibilities include designing and implementing new features, optimizing existing code, and working collaboratively with other members of the team.",
+        "educational_requirements": "Bachelor's degree in Computer Science or a related field",
+        "experiences": "5+ years of experience in software engineering",
+        "contact_information": {
+          "phone": "+1 (555) 123-4567",
+          "email": "jobs@acme.com"
+        }
+      },
+      {
+        "id": 4,
+        "company_logo": "https://example.com/company_logo_002.png",
+        "job_title": "Marketing Manager",
+        "company_name": "ABC Inc.",
+        "remote_or_onsite": "Onsite",
+        "location": "New York",
+        "fulltime_or_parttime": "Fulltime",
+        "salary": "$80,000 - $100,000 per year",
+        "job_description": "We are seeking an experienced marketing manager to lead our marketing team and drive our marketing strategy. The ideal candidate will have experience in B2B marketing and digital marketing.",
+        "job_responsibility": "- Develop and execute marketing strategies and campaigns\n- Manage the marketing budget and measure ROI\n- Lead and manage the marketing team\n- Collaborate with sales and product teams to develop messaging and positioning\n- Analyze market trends and competitors",
+        "educational_requirements": "Bachelor's degree in Marketing, Business Administration or related field",
+        "experiences": "5+ years of experience in B2B marketing or related field",
+        "contact_information": {
+          "phone": "555-555-5555",
+          "email": "jobs@abcinc.com"
+        }
+      },
+      {
+        "id": 5,
+        "company_logo": "https://example.com/company_logo_003.png",
+        "job_title": "UI/UX Designer",
+        "company_name": "XYZ Inc.",
+        "remote_or_onsite": "Onsite",
+        "location": "San Francisco",
+        "fulltime_or_parttime": "Fulltime",
+        "salary": "$90,000 - $110,000 per year",
+        "job_description": "We are looking for a talented UI/UX designer to help us create engaging and intuitive user experiences for our products. The ideal candidate will have experience in both UI and UX design.",
+        "job_responsibility": "- Design user interfaces for web and mobile applications\n- Conduct user research and create user personas\n- Create wireframes, prototypes, and visual designs\n- Collaborate with product and engineering teams\n- Conduct usability testing and iterate on designs",
+        "educational_requirements": "Bachelor's degree in Graphic Design, Human-Computer Interaction or related field",
+        "experiences": "3+ years of experience in UI/UX design",
+        "contact_information": {
+            "phone": "+1 (333) 222-3333",
+            "email": "jobs@lamma.com"
+          }
+      },
+      {
+        "id": 6,
+        "company_logo": "https://example.com/logo.png",
+        "job_title": "Data Analyst",
+        "company_name": "Gamma Corp.",
+        "remote_or_onsite": "Onsite",
+        "location": "San Francisco, CA",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$90,000 - $110,000",
+        "job_description": "We're seeking a data analyst to help us uncover insights and trends in our user data.",
+        "job_responsibility": "Responsibilities include analyzing user data to identify trends and opportunities, collaborating with other members of the data team, and presenting findings to stakeholders.",
+        "educational_requirements": "Bachelor's degree in Mathematics, Statistics, or a related field",
+        "experiences": "3+ years of experience in data analysis",
+        "contact_information": {
+          "phone": "+1 (555) 222-3333",
+          "email": "jobs@gamma.com"
+        }
+      }
+    ]
+  
